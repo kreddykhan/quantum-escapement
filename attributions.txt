@@ -1,9 +1,0 @@
-dungeon hallway: http://opengameart.org/content/dungeon-hallway
-attribution instructions: attribute this site, opengameart.org
-
-tiles: http://opengameart.org/content/dungeon-tileset-wip
-
-bookcase: https://www.renderosity.com/mod/freestuff/?item_id=71774
-
-pirate pic: https://pixabay.com/en/pirate-flag-bones-skull-danger-47705/
-
